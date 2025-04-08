@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Mac
+.idea/
+*/.DS_Store
+.DS_Store
+DeepSeek_test/.env
